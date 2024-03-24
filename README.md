@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡Fun fact: I'm a very observant person and I have a good sense of humor.
 
   ### Tools I use
-  <code><img src = "/Assets/python.png"></code>
-  <code><img src = "/Assets/html.png"></code>
-  <code><img src = "/Assets/css.jpg"></code>
+  <code><img src = "/Assets/python.png" width = 50px height = 50px></code>
+  <code><img src = "/Assets/html.png" width = 50px height = 50px></code>
+  <code><img src = "/Assets/css.jpg" width = 50px height = 50px></code>
