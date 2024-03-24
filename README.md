@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   ### Tools I use
   <code><img src = "/Assets/python.png" width = 50px height = 50px></code>
   <code><img src = "/Assets/html.png" width = 50px height = 50px></code>
-  <code><img src = "/Assets/css.jpg" width = 70px height = 50px></code>
+  <code><img src = "/Assets/css.jpg" width = 60px height = 50px></code>
   <code><img src = "/Assets/adobe photoshop.png" width = 50px height = 50px></code>
