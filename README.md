@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Welcome to my Profile!!!
 - 🔭 I'm currently working on a design project using Adobe Photoshop.
-- 🌱 I'm currently learning Python in College.
+- 🌱 I'm currently learning Python in College and Figma personally.
 - 👯 I'm looking to collaborate on a design project.
 - 🤔 I'm looking for help with front end development tools.
 - 💬 Ask me about what I know🙃😜
