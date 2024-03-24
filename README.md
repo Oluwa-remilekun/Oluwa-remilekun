@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about what I know🙃😜
 - 📫 How to reach me: <a href = "www.linkedin.com/in/oluwaremilekun-adeshina">Remi</a>
 - 😄 Pronouns: She/her
-- ⚡Fun fact: I'm a very oobservant person and I have a good sense of humor.
+- ⚡Fun fact: I'm a very observant person and I have a good sense of humor.
 
   ### Tools I use
-  
+  <code><img src = "/Assets/python"></code>
